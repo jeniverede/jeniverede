@@ -24,7 +24,7 @@ My motivation to transition into coding came from a desire to go beyond designin
 
 During my time learning coding at WBS Coding School, I immersed myself in a variety of languages and technologies, including HTML, CSS, JavaScript, React, NodeJS, MongoDB, and PostgreSQL. I embarked on both group and individual projects, such as crafting an interactive cookbook, to-do lists, blog sites, and delved into the intricacies of working with databases.
 
-Looking ahead to my graduation from WBS Coding School in November 2023, my career goals revolve around combining my design & UI skills with coding. My goal is to become a Frontend Web & App Developer for organisations dedicated to causes close to my heart, including those that support animals, the environment, people, businesses or heritage preservation. I aspire to contribute my skills and experience to a nurturing and supportive work environment that values individuality.
+Since my graduation from WBS Coding School in November 2023, I am working towards my career goal of combining my design & UI skills with coding. I am open to work as a Frontend Web & App Developer for organisations dedicated to causes close to my heart, including those that support animals, the environment, people, businesses or heritage preservation. I aspire to contribute my skills and experience to a nurturing and supportive work environment that values individuality.
 
 In my free time, I love visiting museums and thinking about how those who came before us lived.
 I also enjoy adding to my library of historical fashion books.
