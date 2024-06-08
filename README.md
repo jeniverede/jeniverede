@@ -31,4 +31,4 @@ I also enjoy adding to my library of historical fashion books.
 
 Anyone interested in connecting with me can reach out here, via LinkedIn or email at jennifer.r.rothrock@gmail.com. 
 
-To view my portfolio please visit https://jennifer-rothrock-portfolio.squarespace.com/
+To view my portfolio please visit: https://jennifer-rothrock-portfolio.squarespace.com/
