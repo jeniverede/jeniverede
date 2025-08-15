@@ -1,7 +1,7 @@
 Hi!, my name is Jennifer Rothrock
 =========================================================================================================================================
 
-Frontend Web & App Developer, background in UI Design
+Webdesigner, Frontend Developer, CMS Content Manager
 -----------------------------------------------------
 
 ### Skills
