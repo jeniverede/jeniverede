@@ -15,7 +15,7 @@ Webdesigner, Frontend Developer, CMS Content Manager
 *   ✉️  You can contact me at [jennifer.r.rothrock@gmail.com](mailto:jennifer.r.rothrock@gmail.com)
 *   🚀  I'm currently working on [Frontend Mentor projects](http://www.frontendmentor.io/profile/jeniverede)
 *   🧠  I'm learning TYPO3 & WordPress
-*   🖥️  See my WordPress portfolio at [here](http://rothrockportfolio.com)
+*   🖥️  See my WordPress portfolio [here](http://rothrockportfolio.com)
 *   🤝  I'm open to collaborating on projects for non-profit organisations helping animals, people or the environment
 *   ⚡  I bake a delicious chocolate cake.
 
