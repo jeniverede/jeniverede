@@ -11,7 +11,6 @@ Webdesigner, Frontend Developer, CMS Content Manager
 </p>
 
 *   🌍  I'm based in Berlin, Germany
-*   🖥️  See the portfolio I built with React from scratch [here](http://rothrock-portfolio.netlify.app/)
 *   🖥️  See my WordPress portfolio [here](http://rothrockportfolio.com)  
 *   🚀  I'm currently working on [Frontend Mentor projects](http://www.frontendmentor.io/profile/jeniverede)
 *   ✉️  You can contact me at [jennifer.r.rothrock@gmail.com](mailto:jennifer.r.rothrock@gmail.com)
